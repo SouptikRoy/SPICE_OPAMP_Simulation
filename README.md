@@ -70,10 +70,6 @@ These plots show the results of an AC sweep, which measures the circuit's respon
 * **Magnitude Plot:** The plot shows a sharp peak at **1 kHz** with a gain of **0 dB**. Frequencies above and below 1 kHz are attenuated (rolled off).
 * **Phase Plot:** The phase shifts from $+90^\circ$ to $-90^\circ$, passing through **$0^\circ$** at the 1 kHz peak.
 
-### Mismatch
-This is the classic signature of a **2nd-Order Bandpass Filter**. This result is completely unrelated to both the inverting amplifier schematic and the non-inverting amplifier transient results.
-
----
 
 ## Conclusion
 
